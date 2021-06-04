@@ -141,6 +141,12 @@ Section Title
   text-align: center;
 }
 
+.section-title h6 {
+  font-size: 18px;
+  text-transform: capitalize;
+  text-align: center;
+}
+
 .sec-padding {
   padding: 80px 0;
 }
